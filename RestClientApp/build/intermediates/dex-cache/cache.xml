@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/restclientlib/build/intermediates/bundles/default/libs/httpcore-4.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfacb927aed92ed39fb32a14c17815c00842c7c">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3_ca3b86f66b43a48e015ca1e4872d26fd34f5ec37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/restclientlib/build/intermediates/bundles/default/libs/httpmime-4.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0c00580cd7b083c8acd00f4ffb2aacef65b2b80">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/httpmime-4.5.1_d5b4b5e8b399fa875c66356a280469b16a730c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/restclientlib/build/intermediates/bundles/default/libs/httpclient-4.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="975a9629da0a62745edb2da7ba1fbb85d9ea8728">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/httpclient-4.5.1_8d08726b1c1220d794561a9587eef21f6aa6b225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/restclientlib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e4f2464a40797258a8171b9db609eb6db86b267">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/classes_efdbca9908dbfea8aefb8f91d2ed57ecaf0c572f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/okio-1.13.0_98e17d8fb9d47565c3eb60e2f9b1f9bb23641833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/restclientlib/build/intermediates/bundles/default/libs/httpclient-win-4.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="656736e23afd8f5111ac26301266531fa1e647f8">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/httpclient-win-4.5.1_c777308ecc83bbb62c986c34d512adf5150e2b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_afee39e0fbb5c5af0d367953618da965873fa2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anis/.android/build-cache/480fdd17cfcc665f478f6d61aeb87dc0e4374903/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/media/anis/0372ce08-02ff-4991-86be-833f263f8f1e/AndroidStudioProjects/RestClientApp/app/build/intermediates/pre-dexed/debug/classes_d944d78733917561824079f518c3cc3191811209.jar" />
+    </item>
+
+</items>
